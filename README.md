@@ -1,1 +1,1 @@
-# bcro-assets
+# assets
